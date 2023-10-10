@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-10-10T18:12:38-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Flashy Potato ",
+      "author": [],
+      "contents": "\n\n          \n          \n          test website\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n          \n            Flashy Potato\n          \n          \n            \n          \n          \n            \n            Anya’s test website\n            Anya is learning to build her first website. She is\n            currently:\n            very confused by Git\n            very excited to finish this project\n            looking forward to building her actual page\n            Come back soon for more\n            \n          \n          \n            \n                \n                  \n                     CV\n                  \n                \n              \n                            \n                \n                  \n                     LinkedIn\n                  \n                \n              \n                            \n                \n                  \n                     ORCID\n                  \n                \n              \n                            \n                \n                  \n                     Email\n                  \n                \n              \n                          \n        \n      \n    \n\n    \n      \n        \n          \n            \n          \n            Flashy Potato\n          \n          \n            \n          \n          \n            \n            Anya’s test website\n            Anya is learning to build her first website. She is\n            currently:\n            very confused by Git\n            very excited to finish this project\n            looking forward to building her actual page\n            Come back soon for more\n            \n          \n        \n      \n      \n          \n              \n                                \n                    \n                     CV\n                    \n                \n                                \n                    \n                     LinkedIn\n                    \n                \n                                \n                    \n                     ORCID\n                    \n                \n                                \n                    \n                     Email\n                    \n                \n                              \n          \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-10-10T18:12:41-05:00"
+    }
+  ],
+  "collections": []
+}

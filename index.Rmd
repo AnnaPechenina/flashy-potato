@@ -1,0 +1,31 @@
+---
+title: "Flashy Potato "
+image: "images/DT2049.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: '<i class="fa-solid fa-file"></i> CV'
+    url: 'https://drive.proton.me/urls/2VAKHS846R#HZY4MMzAsu7g target="_blank"'
+  - label: '<i class="fa-brands fa-linkedin"></i> LinkedIn'
+    url: 'https://www.linkedin.com/in/anna-pechenina/ target="_blank"'
+  - label: '<i class="fa-brands fa-orcid"></i> ORCID'
+    url: 'https://orcid.org/0000-0002-4248-7342 target="_blank"'
+  - label: '<i class="fa-solid fa-envelope"></i> Email'
+    url: "mailto:annapechenina@proton.me"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+
+## Anya's test website
+
+Anya is learning to build her first website. She is currently:
+
+-   very confused by Git
+
+-   very excited to finish this project
+
+-   looking forward to building her actual page
+
+Come back soon for more
