@@ -1,5 +1,5 @@
 ---
-title: "Flashy Potato "
+title: "Flashy Potato"
 image: "images/DT2049.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
@@ -12,7 +12,7 @@ links:
   - label: '<i class="fa-brands fa-orcid"></i> ORCID'
     url: 'https://orcid.org/0000-0002-4248-7342 target="_blank"'
   - label: '<i class="fa-solid fa-envelope"></i> Email'
-    url: "mailto:annapechenina@proton.me"
+    url: "mailto:annapechenina@protonmail.com"
 output:
   postcards::onofre
 site: distill::distill_website
